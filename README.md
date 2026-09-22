@@ -1,2 +1,2 @@
 # Guess-the-Number
-A simple Android game app built using Flutter.
+A simple Android game app built using Flutter. No longer actively maintained.
